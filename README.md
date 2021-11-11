@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Jonathan Wong, welcome to my GitHub!
-You can reach me at jaywong5375@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-wong-435a8b146/)
+My name is Jonathan Wong, welcome to my GitHub! <br/>
+You can reach me at jaywong5375@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-wong-435a8b146/).
 
 <!--
 **jay5375/jay5375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
